@@ -827,3 +827,4 @@ allauth.socialaccount.models.SocialApp.DoesNotExist: SocialApp matching query do
 "GET /static/djangocms_admin_style/css/djangocms-admin.css HTTP/1.1" 200 190420
 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
