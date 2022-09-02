@@ -828,3 +828,16 @@ allauth.socialaccount.models.SocialApp.DoesNotExist: SocialApp matching query do
 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13201
+"GET /accounts/register HTTP/1.1" 200 8429
+"POST /accounts/register HTTP/1.1" 302 0
+"GET /accounts/login HTTP/1.1" 200 7910
+"POST /accounts/login HTTP/1.1" 302 0
+"GET /accounts/dashboard HTTP/1.1" 200 8550
+"GET /youtubers/3 HTTP/1.1" 200 12065
+"GET /about HTTP/1.1" 200 7915
+"GET /services HTTP/1.1" 200 4773
+"GET / HTTP/1.1" 200 13203
+"GET / HTTP/1.1" 200 13207
+"GET / HTTP/1.1" 200 13215
+"GET /youtubers/ HTTP/1.1" 200 10868
